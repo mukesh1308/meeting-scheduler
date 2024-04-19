@@ -1,0 +1,11 @@
+.vscode
+
+# go
+*.exe
+server/vendor
+server/public
+server/build
+
+# React JS
+client/build
+client/node_modules
